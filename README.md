@@ -20,7 +20,7 @@ Este proyecto es un ejemplo de una aplicación web CRUD (Crear, Leer, Actualizar
 
 A continuación se muestra una captura de pantalla de la página `mostrarDatos.jsp`, donde se visualiza la lista de empleados.
 
-![Captura de pantalla de mostrarDatos.jsp](ruta/a/tu/captura.png)
+![Captura de pantalla de mostrarDatos.jsp](img/Captura.JPG)
 
 ### Cómo usar este proyecto
 
