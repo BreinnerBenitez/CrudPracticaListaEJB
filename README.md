@@ -1,4 +1,4 @@
-## Proyecto CRUD de Empleados practica en lista
+## Proyecto CRUD de Empleados - practica 
 
 Este proyecto es un ejemplo de una aplicación web CRUD (Crear, Leer, Actualizar, Borrar) para la gestión de empleados. La particularidad de esta aplicación es que utiliza una **lista en memoria** (`List<String[]>`) para almacenar los datos de los empleados en lugar de una base de datos tradicional. Esto permite realizar operaciones CRUD de manera sencilla y eficiente, aunque los datos no persisten después de que la aplicación se detiene.
 
